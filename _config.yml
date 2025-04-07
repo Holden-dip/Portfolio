@@ -3,6 +3,14 @@ name: Holden Dipietro
 email: holdendip@gmail.com
 baseurl: "/Portfolio/"
 
+collections:
+	design:
+		output: true
+		permalink: /design/:name/ 
+		
+	photoshop:
+		output: true
+
 instagram:  
 linkedIn:
 snapchat:
