@@ -6,11 +6,4 @@ baseurl: "/Portfolio/"
 collections:
 	design:
 		output: true
-		permalink: /design/:name/ 
 		
-	photoshop:
-		output: true
-
-instagram:  
-linkedIn:
-snapchat:
