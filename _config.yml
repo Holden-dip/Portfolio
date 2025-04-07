@@ -4,6 +4,6 @@ email: holdendip@gmail.com
 baseurl: "/Portfolio/"
 
 collections:
-	_design:
-		output: true
+design:
+output: true
 		
