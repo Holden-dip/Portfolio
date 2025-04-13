@@ -1,7 +1,6 @@
 ---
 title: "Poster Series"
 tools: [Photoshop, InDesign]
-author: "Holden Dipietro"
 description: "A typographic poster series exploring contrast, scale, and rhythm."
 layout:
 permalink:
