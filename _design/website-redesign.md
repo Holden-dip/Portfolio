@@ -1,7 +1,6 @@
 ---
 title: "Website Redesign"
 tools: [Photoshop, Figma]
-author: "Holden Dipietro"
 description: "A typographic poster series exploring contrast, scale, and rhythm."
 layout: design
 
