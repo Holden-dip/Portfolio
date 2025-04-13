@@ -1,9 +1,9 @@
 title: My Portfolio
 name: Holden Dipietro
 email: holdendip@gmail.com
-baseurl: "/Portfolio/"
+baseurl: "/Portfolio"
 
 collections:
-design:
-output: true
-permalink: /:collection/:path/
+  design:
+    output: true
+    permalink: /:collection/:path/
