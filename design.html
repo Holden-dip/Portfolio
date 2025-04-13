@@ -16,9 +16,11 @@ title: "design projects"
 			</p>
 			{% endif%} <!-- closes the if loop --->
 			
+			{% if design.description %}
 			<p> {{ design.description }}</p>
+			{% endif %}
 			
-			<a href="{{ design.url }}"> View Project</a>
+			<a href="{{ site.baseurl }} /{{ design.url }}">View Project </a>
 			
 		</div>
 	{% endfor %}
