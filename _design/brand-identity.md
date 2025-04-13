@@ -1,7 +1,6 @@
 ---
 title: "Brand Identity"
 tools: [Photoshop, InDesign, Illustrator]
-author: "Holden Dipietro"
 description: "Brand Identity built using tools adn colors"
 layout: design
 
