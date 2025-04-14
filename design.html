@@ -4,12 +4,9 @@ title: "design projects"
 ---
 
 <div class="design-grid">  
-	
 	{% for design in site.design %} <!-- for everything that was in design.html, loops once -->
-		<div class="design-card"> 
-			
+		<div class="design-card"> 	
 		<h2>{{ design.title }}</h2>
-			
 			{% if design.tools %} <!-- checks if theres anything in the tool frontmatter -->
 			<p>
 				<strong>Tools:</strong> {{ design.tools | join: ", " }}
