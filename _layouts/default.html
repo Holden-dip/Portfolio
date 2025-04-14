@@ -5,11 +5,22 @@
 	<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
     <title>{{ site.title }} | {{ page.title }}</title>
 </head>
+	<style>
+		.info{
+			text-align: center;
+			margin-bottom: 2rem;
+		}
+
+	
+	</style>
 <body>
     
 	{% include sidebar.html %}
 
-		{{ content }}
+		<div class="info">
+			{{ content }}
+		</div>
+		
 
 	
 	
