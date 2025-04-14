@@ -2,7 +2,7 @@
 title: "Brand Identity"
 tools: [Photoshop, InDesign, Illustrator]
 description: "Brand Identity built using tools adn colors"
-layout: design
+layout: design-content
 
 ---
 

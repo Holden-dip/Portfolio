@@ -2,7 +2,7 @@
 title: "Website Redesign"
 tools: [Photoshop, Figma]
 description: "A typographic poster series exploring contrast, scale, and rhythm."
-layout: design
+layout: design-content
 
 ---
 
