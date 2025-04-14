@@ -14,9 +14,9 @@ This Brand Identity was created to explore hte personaly work and image I've mad
 
 ## Tools & Techniques <!-- headline --> 
 
-### - Adobe InDesign
-### - Adobe Photoshop
-### - Adobe Illustrator
+#### - Adobe InDesign
+#### - Adobe Photoshop
+#### - Adobe Illustrator
 
 
 ## Outcomes
