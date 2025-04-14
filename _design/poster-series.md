@@ -16,8 +16,8 @@ typography can communicate emotion and energy through layout.
 
 ## Tools & Techniques <!-- headline --> 
 
-### - Adobe InDesign
-### - Adobe Photoshop for texture and blending
+#### - Adobe InDesign
+#### - Adobe Photoshop for texture and blending
 
 
 ## Outcomes
