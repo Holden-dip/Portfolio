@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+	<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+    <title>{{ site.title }} | {{ page.title }}</title>
+</head>
+	<style>
+		.cont{
+			position:relative;
+			width:660px;
+			left:440px;
+		}
+	
+	</style>
+<body>
+    
+	{% include sidebar.html %}
+	
+	<div class="cont">
+	{{ content }}
+	</div>
+	
+</body>
+</html>
