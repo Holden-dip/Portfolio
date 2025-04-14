@@ -15,8 +15,8 @@ typography can communicate emotion and energy through layout.
 
 ## Tools & Techniques <!-- headline --> 
 
-- Figma
-- Adobe Photoshop for texture and blending
+### - Figma
+### - Adobe Photoshop for texture and blending
 
 
 ## Outcomes
